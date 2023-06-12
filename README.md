@@ -1,5 +1,6 @@
 # Emu population projection model
 <img align="right" src="emu.png" alt="emu" width="200" style="margin-top: 20px">
+<a href="https://zenodo.org/badge/latestdoi/414044224"><img src="https://zenodo.org/badge/414044224.svg" alt="DOI"></a>
 
 Stochastic Leslie matrix population model for the emu (<a href="https://www.birdlife.org.au/bird-profile/emu"><em>Dromaius novaehollandiae</em></a>)
 
